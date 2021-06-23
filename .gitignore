@@ -1,0 +1,18 @@
+# Folders
+build
+coverage
+dist
+node_modules
+
+# Files
+*.log
+
+# OS
+._*
+.cache
+.DS_Store
+
+# gitbook
+_book
+
+.idea

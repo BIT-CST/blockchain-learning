@@ -1,0 +1,150 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0, shrink-to-fit=no, viewport-fit=cover">
+    <title>blockchain</title>
+
+            <!-- Test Stylesheets -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify@4/themes/vue.css">
+    <!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify@4/themes/buble.css"> -->
+    <!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify@4/themes/dark.css"> -->
+    <!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify@4/themes/pure.css"> -->
+        <!-- Alternate Stylesheets -->
+    <!-- <link rel="stylesheet alternate" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-defaults.css" title="Defaults"> -->
+    <!-- <link rel="stylesheet alternate" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple-dark.css" title="Simple Dark"> -->
+
+    <!-- My Stylesheets -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/baicaihenxiao/js@latest/cserclub-common.css">
+    <link rel="stylesheet" href="./assets/css/baicaiDocsStyle.css">
+
+
+    <!-- https://github.com/upupming/docsify-katex -->
+        <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/katex@latest/dist/katex.min.css"/>
+
+
+        <!-- support math latex -->
+    <!--     <script type="text/x-mathjax-config">
+          MathJax.Hub.Config({
+            tex2jax: {
+              skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+              inlineMath: [['$','$']]
+            }
+          });
+        </script>
+        <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>  -->
+
+</head>
+
+<body>
+    <div id="app"></div>
+    <script src="//cdn.jsdelivr.net/npm/docsify-edit-on-github"></script>
+
+
+    <!-- JavaScript -->
+    <script>
+        // Docsify
+        window.$docsify = {
+            // GENERAL
+            // -----------------------------------------------------------------
+            name       : 'blockchain',
+            // logo: '/assets/icon/luxun.jpg',
+            // coverpage  : 'coverpage.md',
+            homepage   : 'README.md',
+            loadSidebar: 'SUMMARY.md',
+
+            // NAVIGATION
+            // -----------------------------------------------------------------
+            // alias: {
+            //     '.*?/changelog': 'https://cdn.jsdelivr.net/npm/docsify-themeable@0/CHANGELOG.md',
+            // },
+            auto2top   : false,
+            maxLevel   : 4,
+            subMaxLevel: 5,
+
+            // PLUGINS
+            // -----------------------------------------------------------------
+            executeScript: true,
+            // ga    : 'UA-153486679-2',
+            search: {
+                depth      : 5,
+                noData     : 'No results!',
+                placeholder: 'Search...'
+            },
+
+            // {docsify-updated} 这个变量显示的格式
+            formatUpdated: '{MM}.{DD}, {YYYY}',
+
+            // 可以使用相对路径 https://docsify.js.org/#/configuration?id=relativepath 
+            // relativePath: true, 不要用这个,会使绝对路径失效
+
+            markdown: {
+                // https://marked.js.org/#/USING_PRO.md#renderer
+                renderer: {
+                    // image: function(href, title) {
+                    //     return `<img src="${href}" data-origin="${href}" alt="${title}">`
+                    // },
+                    // html: function(html) {
+                    //     return `${html} 1`
+                    // },
+                    // paragraph: function(text) {
+                    //     return 'sdfa {text}'
+                    // }
+                    code: function(code, lang) {
+                        if (lang === "mermaid") {
+                            return (
+                                '<div class="mermaid">' + mermaid.render('mermaid-svg-' + num++, code) + "</div>"
+                            );
+                        }
+                        return this.origin.code.apply(this, arguments);
+                    },
+                }
+            },
+            plugins: [
+
+                // tree 的效果是跳到该文件但不编辑，blob会自动编辑
+                // https://github.com/njleonzhang/docsify-edit-on-github
+                EditOnGithubPlugin.create('https://github.com/BIT-CST/blockchain-learning/tree/main/', null, function(file) {return 'Edit on GitHub'}),
+            ]
+
+        };
+    </script>
+    <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
+<!--    <script src="https://cdn.jsdelivr.net/npm/docsify-tabs@1"></script>-->
+    <script src="https://cdn.jsdelivr.net/npm/docsify-copy-code@2"></script>
+    <!-- 使用分页 https://github.com/imyelo/docsify-pagination <script src="https://cdn.jsdelivr.net/npm/docsify-pagination@2/dist/docsify-pagination.min.js"></script> -->
+    <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/external-script.min.js"></script>
+    <!-- <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/ga.min.js"></script> -->
+    <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/zoom-image.min.js"></script>
+
+    <!-- highlight codes 其他语言参考 https://github.com/PrismJS/prism/tree/gh-pages/components -->
+    <script src="//cdn.jsdelivr.net/npm/prismjs/components/prism-java.min.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/prismjs/components/prism-c.min.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/prismjs/components/prism-cpp.min.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/prismjs/components/prism-csharp.min.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/prismjs/components/prism-python.min.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/prismjs/components/prism-markdown.min.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/prismjs/components/prism-latex.min.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/prismjs/components/prism-git.min.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/prismjs/components/prism-yaml.min.js"></script>
+    <!-- <script src="//cdn.jsdelivr.net/npm/prismjs/components/prism-javascript.min.js"></script> 原生支持，但要写javascript，不能JavaScript-->
+
+    <script src="//cdn.jsdelivr.net/npm/docsify-katex@latest/dist/docsify-katex.js"></script>
+
+
+    <!-- Supports mermaid -->
+    <!-- https://mermaid-js.github.io/mermaid/#/ -->
+    <script src="//cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
+    <!-- https://github.com/Leward/mermaid-docsify -->
+    <!--    <script src="//unpkg.com/mermaid/dist/mermaid.js"></script>-->
+<!--    <script src="//unpkg.com/docsify-mermaid@latest/dist/docsify-mermaid.js"></script>-->
+    <script>
+        var num = 0;
+        mermaid.initialize({ startOnLoad: false });
+    </script>
+
+</body>
+</html>
