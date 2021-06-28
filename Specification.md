@@ -87,6 +87,8 @@ commit 写的消息格式目前**不做强制要求**，写了这个 commit 做�
     在该分支下写代码。
 
     每次需要添加自己的文件时，从**最新**的 dev 分支新建 feat 分支，分支命名为 `名字-日期-做了啥`（如    `cody-20210628-Algorand_Notes` ）格式，写完后从 feat 分支向 dev 分支**提 pull requests** 等待 @Cody 合并（**尽量不要自己合并**）。
+    
+    举例：<https://github.com/BIT-CST/blockchain-learning/pull/4>
 
 
 
