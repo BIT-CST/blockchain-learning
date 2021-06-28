@@ -82,10 +82,29 @@ docsify serve --port=8080
 
 
 
-### 本项目使用规约
+# 本项目使用规约
 
 
 
-## docsify 语法
+# docsify 语法
 
 见 [syntax](/Syntax)
+
+
+
+# 软件推荐
+
+* Markdown 编辑器：
+
+    typora <https://typora.io/>
+
+    typora 上传图片：https://support.typora.io/Upload-Image/ 
+
+    win 下可以 PicGo + gitee 上传图片
+
+    
+
+* GitHub Desktop：
+
+    <https://desktop.github.com/>
+
