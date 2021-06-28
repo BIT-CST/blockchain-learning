@@ -20,3 +20,11 @@
 
 * @[royaya](https://github.com/royaya)
 
+
+
+
+
+## License
+
+本项目采用 [MPL2.0](https://github.com/BIT-CST/blockchain-learning/blob/main/LICENSE) 许可证，转载请注明出处。
+
