@@ -70,6 +70,34 @@ commit 写的消息格式目前**不做强制要求**，写了这个 commit 做�
 
 <p class="icon notice" markdown="1"> 强制：使用 main-dev-feature 分支的开发方式。 </p>
 
+参考 <https://nvie.com/posts/a-successful-git-branching-model/>
+
+但是我们只使用 3 种分支：
+
+* **main**
+
+    主分支，**不直接**在该分支下写代码，所有的代码都从 dev 分支合并
+
+* **dev**
+
+    开发分支，**正常情况下也不直接**在该分支下写代码，所有代码都从 feat 合并
+
+* **feat**
+
+    在该分支下写代码。
+
+    每次需要添加自己的文件时，从**最新**的 dev 分支新建 feat 分支，分支命名为 `名字-日期-做了啥`（如    `cody-20210628-Algorand_Notes` ）格式，写完后从 feat 分支向 dev 分支**提 pull requests** 等待 @Cody 合并（**尽量不要自己合并**）。
+
+
+
+用 git 操作时可能会遇到很多问题，先尝试百度解决，无法解决即时沟通。（**注意不要在尝试解决问题时把自己的笔记弄没了**）
+
+
+
+
+
+
+
 
 
 # 文字书写排版
