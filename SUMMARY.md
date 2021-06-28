@@ -1,5 +1,6 @@
 - [Welcome](/README.md)
 - [Contents](/SUMMARY.md)
+- [Turorial](/Turorial.md)
 - [Syntax](/Syntax.md)
 
 - <hr>
