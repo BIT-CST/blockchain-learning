@@ -94,7 +94,7 @@ commit 写的消息格式目前**不做强制要求**，写了这个 commit 做�
 
 
 
-
+<p class="icon notice" markdown="1"> 强制：不要在 main 上开发，尽量不在 dev 上开发。不要在 main 和 dev 上使用 `git push -f`。 </p>
 
 
 
