@@ -57,3 +57,21 @@ win 下可以用 gitee 当作图床，typora + PicGo + gitee 解决 markdown 插
 
 
 # git 使用
+
+
+
+## commit log
+
+commit 写的消息格式目前**不做强制要求**，写了这个 commit 做了什么就行。
+
+规范的写法参考 <http://www.ruanyifeng.com/blog/2016/01/commit_message_change_log.html>
+
+## branch
+
+<p class="icon notice" markdown="1"> 强制：使用 main-dev-feature 分支的开发方式。 </p>
+
+
+
+# 文字书写排版
+
+**不做强制要求**，可以参考 <https://github.com/mzlogin/chinese-copywriting-guidelines>，书写更漂亮。
