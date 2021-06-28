@@ -2,3 +2,6 @@
 article.markdown-section {
   max-width: 1000px;
 }
+section.content {
+  padding-top: 0px;
+}
