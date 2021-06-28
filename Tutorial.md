@@ -100,7 +100,7 @@ docsify serve --port=8080
 
     typora 上传图片：https://support.typora.io/Upload-Image/ 
 
-    win 下可以 PicGo + gitee 上传图片
+    win 下用 gitee 当作图床，typora + PicGo + gitee 解决 markdown 插入图片的痛点。
 
     
 
