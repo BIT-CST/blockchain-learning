@@ -84,11 +84,11 @@ docsify serve --port=8080
 
 # 本项目使用规约
 
-
+见 [Specification](./Specification.md)
 
 # docsify 语法
 
-见 [syntax](/Syntax)
+见 [syntax](/Syntax.md)
 
 
 
