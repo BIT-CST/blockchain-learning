@@ -1,6 +1,6 @@
 - [Welcome](/README.md)
 - [Contents](/SUMMARY.md)
-- [Turorial](/Tutorial.md)
+- [Tutorial](/Tutorial.md)
 - [Specification](/Specification.md)
 - [Syntax](/Syntax.md)
 
