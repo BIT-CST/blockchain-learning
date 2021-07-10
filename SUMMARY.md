@@ -6,6 +6,7 @@
 
 - <hr>
 - **Schedule**
+- [July](schedule/July.md)
 
 - <hr>
 - **Codyyy**
