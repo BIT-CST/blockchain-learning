@@ -20,9 +20,9 @@
 
 ## 自定义 CSS 语法
 
-目前已有的的 CSS 语法如下，使用的 CSS 文件是 @Cody 写的：<https://github.com/baicaihenxiao/js/blob/master/cserclub-common.css>
-
 如果要自己定义 CSS，可以在 `/assets/css/` 下新建 CSS 文件，然后在这里补充使用方式。
+
+目前已有的的 CSS 是 `/assets/css/baicaiDocsStyle.css`， 语法如下：
 
 ### Label
 
