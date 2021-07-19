@@ -12,7 +12,7 @@
 - **Codyyy**
 - [《Mastering Bitcoin 2nd Edition - Programming the Open Blockchain》](/cody/Mastering-Bitcoin-2nd-Edition-Programming-the-Open-Blockchain.md)
 - [Algorand: Scaling Byzantine Agreements for Cryptocurrencies](/cody/Algorand-Scaling-Byzantine-Agreements-for-Cryptocurrencies.md)
-
+- [Cloud-enabled privacy-preserving truth discovery in crowd sensing systems](/cody/Cloud-enabled-privacy-preserving-truth-discovery-in-crowd-sensing-systems.md)
 
 
 - <hr>
