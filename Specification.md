@@ -8,6 +8,9 @@ Changelog
 
 2021-06-30
 增加文件命名规则
+
+2021-07-20
+git commit log 增加格式说明
 ```
 
 
@@ -83,6 +86,26 @@ win 下可以用 gitee 当作图床，typora + PicGo + gitee 解决 markdown 插
 commit 写的消息格式目前**不做强制要求**，写了这个 commit 做了什么就行。
 
 规范的写法参考 <http://www.ruanyifeng.com/blog/2016/01/commit_message_change_log.html>
+
+格式： `feat: do sth`
+
+注意**英文冒号**后跟**空格**。
+
+```
+feat：新功能（feature）
+
+fix：修补bug
+
+docs：文档（documentation）
+
+style： 格式（不影响代码运行的变动）
+
+refactor：重构（即不是新增功能，也不是修改bug的代码变动）
+
+test：增加测试
+
+chore：构建过程或辅助工具的变动
+```
 
 ## branch
 
