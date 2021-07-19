@@ -32,3 +32,41 @@
 >
 > Sun, P., Wang, Z., Feng, Y., Wu, L., Li, Y., Qi, H., & Weng, Z. (2020). Towards Personalized Privacy-Preserving Incentive for Truth Discovery in Crowdsourced Binary-Choice Question Answering. *Proceedings - IEEE INFOCOM*, *2020*-*July*, 1133–1142. https://doi.org/10.1109/INFOCOM41043.2020.9155429
 
+## 7.19 - 7.25
+
+**肖臻 - 区块链技术与应用**
+
+> <http://zhenxiao.com/blockchain/>
+>
+> <https://www.bilibili.com/video/BV1Vt411X7JF>
+
+课程大纲
+
+1. 课程简介 [YouTube](https://www.youtube.com/watch?v=UmVec9VHtpE&index=2&list=PLnTPdMjBRmAYehJkVbAXqxO-0cc9ALC6V&t=55s) [bilibili](https://www.bilibili.com/video/av37065233/) [slides](http://zhenxiao.com/blockchain/01.pdf)
+
+2. 比特币：密码学原理 [YouTube](https://www.youtube.com/watch?v=0XbzvsuPmzI&index=2&list=PLnTPdMjBRmAYehJkVbAXqxO-0cc9ALC6V) [bilibili](https://www.bilibili.com/video/av37065233/?p=2)
+3. 比特币：数据结构 [YouTube](https://www.youtube.com/watch?v=W9YMtTWHAdk&index=3&list=PLnTPdMjBRmAYehJkVbAXqxO-0cc9ALC6V) [bilibili](https://www.bilibili.com/video/av37065233/?p=3) [slides](http://zhenxiao.com/blockchain/03-BTC.pdf)
+4. 比特币：共识协议 [YouTube](https://www.youtube.com/watch?v=G0Bcfxs6bGY&index=4&list=PLnTPdMjBRmAYehJkVbAXqxO-0cc9ALC6V) [bilibili](https://www.bilibili.com/video/av37065233/?p=4)
+5. 比特币：实现 [YouTube](https://www.youtube.com/watch?v=yFVtsGJN-Mo&index=5&list=PLnTPdMjBRmAYehJkVbAXqxO-0cc9ALC6V) [bilibili](https://www.bilibili.com/video/av37065233/?p=5)
+6. 比特币：网络 [YouTube](https://www.youtube.com/watch?v=MtF5H4uvW8k&index=6&list=PLnTPdMjBRmAYehJkVbAXqxO-0cc9ALC6V) [bilibili](https://www.bilibili.com/video/av37065233/?p=6)
+7. 比特币：挖矿难度 [YouTube](https://www.youtube.com/watch?v=Vd0StIuXNk8&list=PLnTPdMjBRmAYehJkVbAXqxO-0cc9ALC6V&index=7) [bilibili](https://www.bilibili.com/video/av37065233/?p=7) [slides](http://zhenxiao.com/blockchain/07-BTC.pdf)
+8. 比特币：挖矿 [YouTube](https://www.youtube.com/watch?v=ojwFkSGFDHg&index=8&list=PLnTPdMjBRmAYehJkVbAXqxO-0cc9ALC6V) [bilibili](https://www.bilibili.com/video/av37065233/?p=8) [slides](http://zhenxiao.com/blockchain/08-BTC.pdf)
+9. 比特币：脚本 [YouTube](https://www.youtube.com/watch?v=RiDknRMpZF8&index=9&list=PLnTPdMjBRmAYehJkVbAXqxO-0cc9ALC6V) [bilibili](https://www.bilibili.com/video/av37065233/?p=9) [slides](http://zhenxiao.com/blockchain/09-BTC.pdf)
+10. 比特币：分叉 [YouTube](https://www.youtube.com/watch?v=WsPKSaf9l_E&index=10&list=PLnTPdMjBRmAYehJkVbAXqxO-0cc9ALC6V) [bilibili](https://www.bilibili.com/video/av37065233/?p=10)
+11. 比特币：问答 [YouTube](https://www.youtube.com/watch?v=maIUocuYhuY&index=11&list=PLnTPdMjBRmAYehJkVbAXqxO-0cc9ALC6VV) [bilibili](https://www.bilibili.com/video/av37065233/?p=11) [slides](http://zhenxiao.com/blockchain/11-BTC.pdf)
+12. 比特币：匿名性 [YouTube](https://www.youtube.com/watch?v=Jzu3LCf3ZWg&index=12&list=PLnTPdMjBRmAYehJkVbAXqxO-0cc9ALC6V) [bilibili](https://www.bilibili.com/video/av37065233/?p=12) [slides](http://zhenxiao.com/blockchain/12-BTC.pdf)
+13. 比特币：思考 [YouTube](https://www.youtube.com/watch?v=IsBpo2iVLh0&index=13&list=PLnTPdMjBRmAYehJkVbAXqxO-0cc9ALC6V) [bilibili](https://www.bilibili.com/video/av37065233/?p=13)
+14. 以太坊：概述 [YouTube](https://www.youtube.com/watch?v=2R3EjwLoBY0&index=14&list=PLnTPdMjBRmAYehJkVbAXqxO-0cc9ALC6V) [bilibili](https://www.bilibili.com/video/av37065233/?p=14)
+15. 以太坊：帐户 [YouTube](https://www.youtube.com/watch?v=FX33vJHHOjM&list=PLnTPdMjBRmAYehJkVbAXqxO-0cc9ALC6V&index=15) [bilibili](https://www.bilibili.com/video/av37065233/?p=15)
+16. 以太坊：状态树 [YouTube](https://www.youtube.com/watch?v=jZyl-XSbbjI&list=PLnTPdMjBRmAYehJkVbAXqxO-0cc9ALC6V&index=16) [bilibili](https://www.bilibili.com/video/av37065233/?p=16) [slides](http://zhenxiao.com/blockchain/16-ETH.pdf)
+17. 以太坊：交易树和收据树 [YouTube](https://www.youtube.com/watch?v=RADwCuRRoFs&index=17&list=PLnTPdMjBRmAYehJkVbAXqxO-0cc9ALC6V) [bilibili](https://www.bilibili.com/video/av37065233/?p=17) [slides](http://zhenxiao.com/blockchain/17-ETH.pdf)
+18. 以太坊：GHOST协议 [YouTube](https://www.youtube.com/watch?v=7IJq7W19f4M&list=PLnTPdMjBRmAYehJkVbAXqxO-0cc9ALC6V&index=18) [bilibili](https://www.bilibili.com/video/av37065233/?p=18) [slides](http://zhenxiao.com/blockchain/18-ETH.pdf)
+19. 以太坊：挖矿算法 [YouTube](https://www.youtube.com/watch?v=fNc9LIWs6X8&index=19&list=PLnTPdMjBRmAYehJkVbAXqxO-0cc9ALC6V) [bilibili](https://www.bilibili.com/video/av37065233/?p=19) [slides](http://zhenxiao.com/blockchain/19-ETH.pdf)
+20. 以太坊：难度调整 [YouTube](https://www.youtube.com/watch?v=LV4GXMeTKpk&list=PLnTPdMjBRmAYehJkVbAXqxO-0cc9ALC6V&index=20) [bilibili](https://www.bilibili.com/video/av37065233/?p=20) [slides](http://zhenxiao.com/blockchain/20-ETH.pdf)
+21. 以太坊：PoS [YouTube](https://www.youtube.com/watch?v=ytHBMTmtBsc&index=21&list=PLnTPdMjBRmAYehJkVbAXqxO-0cc9ALC6V) [bilibili](https://www.bilibili.com/video/av37065233/?p=21) [slides](http://zhenxiao.com/blockchain/21-ETH.pdf)
+22. 以太坊：智能合约 [YouTube](https://www.youtube.com/watch?v=LV4GXMeTKpk&list=PLnTPdMjBRmAYehJkVbAXqxO-0cc9ALC6V&index=20) [bilibili](https://www.bilibili.com/video/av37065233/?p=22) [slides](http://zhenxiao.com/blockchain/22-ETH.pdf)
+23. 以太坊：The DAO [YouTube](https://www.youtube.com/watch?v=ggamLQjKUiY&index=23&list=PLnTPdMjBRmAYehJkVbAXqxO-0cc9ALC6V) [bilibili](https://www.bilibili.com/video/av37065233/?p=23) [slides](http://zhenxiao.com/blockchain/23-ETH.pdf)
+24. 以太坊：反思 [YouTube](https://www.youtube.com/watch?v=L4VrqvniJOU&list=PLnTPdMjBRmAYehJkVbAXqxO-0cc9ALC6V&index=24) [bilibili](https://www.bilibili.com/video/av37065233/?p=24)
+25. 以太坊：美链 [YouTube](https://www.youtube.com/watch?v=Uj3UXDKQOWw&index=25&list=PLnTPdMjBRmAYehJkVbAXqxO-0cc9ALC6VV) [bilibili](https://www.bilibili.com/video/av37065233/?p=25) [slides](http://zhenxiao.com/blockchain/25-ETH.pdf)
+26. 总结 [YouTube](https://www.youtube.com/watch?v=ArqF7E9w81M&list=PLnTPdMjBRmAYehJkVbAXqxO-0cc9ALC6V&index=26) [bilibili](https://www.bilibili.com/video/av37065233/?p=26)
+
