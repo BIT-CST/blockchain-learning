@@ -21,6 +21,10 @@
 
 - [Algorand](/jonesyl/Algorand.md)
 
+- [Cloud-Enabled Privacy-Preserving Truth Discovery in Crowd Sensing Systems](/jonesyl/PPTD.md)
+
+  
+
 
 
 - <hr>

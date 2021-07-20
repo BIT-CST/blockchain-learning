@@ -96,8 +96,9 @@
 
 1. 给定一个随机种子，VRF输出基本均匀分布在0和2^(hashlen)-1之间的伪随机散列值。 
 2. 敌手无法获知用户是否被选取和用户被选取的次数。
-3.  an adversary that does not know*sk i* cannot guess how many times user*i* is chosen, or if *i* was chosen at all
-4. 
+3. an adversary that does not know*sk i* cannot guess how many times user*i* is chosen, or if *i* was chosen at all
+
+   
 
 ### Choosing the seed
 
@@ -154,7 +155,7 @@ $$
 
 #### Sending votes
 
-<img src="D:\学习学习又学习\区块链学习\jonesyl-pic\Algorithm4_CommitteeVote.png" alt="Algorithm4_CommitteeVote" style="zoom:80%;" />
+<img src="https://gitee.com/Jonesyl/pic-bed/raw/master/img/20210720165544.png" alt="Algorithm4_CommitteeVote" style="zoom:80%;" />
 
 伪代码检查在给定的 BA⋆步骤中是否选择了用户作为委员会成员
 
