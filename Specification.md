@@ -11,6 +11,9 @@ Changelog
 
 2021-07-20
 git commit log 增加格式说明
+
+2021-7-21
+添加 git 科普文供参考
 ```
 
 
@@ -79,6 +82,11 @@ win 下可以用 gitee 当作图床，typora + PicGo + gitee 解决 markdown 插
 
 # git 使用
 
+科普文参考
+
+> [Git 看这一篇就够了](https://mp.weixin.qq.com/s/H6nNvvfvrPMJtnMV0JhsMg)
+>
+> [图解Git](http://marklodato.github.io/visual-git-guide/index-zh-cn.html?no-svg)
 
 
 ## commit log
