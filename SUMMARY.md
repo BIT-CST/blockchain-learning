@@ -30,7 +30,7 @@
 - <hr>
 - **royaya**
 
-- [Algorand](/jonesyl/Algorand.md)
+- [Algorand](/royaya/Algorand.md)
 
-- [Cloud-Enabled Privacy-Preserving Truth Discovery in Crowd Sensing Systems](/jonesyl/PPTD.md)
+- [Cloud-Enabled Privacy-Preserving Truth Discovery in Crowd Sensing Systems](/royaya/Cloud-Enabled-Privacy-Preserving-Truth-Discovery-in-Crowd-Sensing-Systems.md)
 
